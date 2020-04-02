@@ -1,0 +1,32 @@
+.a{
+background-color: gray;
+height:70px;
+color: white; 
+width:100%;
+text-align: right;
+
+}
+
+.b{
+	background-color: #5de65e;
+	height: 70px;
+	color: black;
+	text-align: center;
+	border: solid gray 1px;
+}
+
+.c{
+	background-color: orange;
+	height: 70px;
+	color: white;
+	text-align: center;
+	border: solid gray 1px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 15px;
+}
