@@ -1,26 +1,27 @@
 .a{
-background-color: gray;
-height:70px;
-color: white; 
+background-color: cyan;
+height:65px;
+color: black; 
 width:100%;
 text-align: right;
+border: solid black 1px;
 
 }
 
 .b{
 	background-color: #5de65e;
-	height: 70px;
+	height: 65px;
 	color: black;
 	text-align: center;
-	border: solid gray 1px;
+	border: solid black 1px;
 }
 
 .c{
 	background-color: orange;
-	height: 70px;
+	height: 65px;
 	color: white;
 	text-align: center;
-	border: solid gray 1px;
+	border: solid black 1px;
 }
 
 .container {
